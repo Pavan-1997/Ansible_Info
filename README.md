@@ -4,11 +4,11 @@ IAC Tools - Terraform , Ansible
 
 Ansible has master node (Control Node) and worker node(Managed Node)
 
-It is agent-less 
+- It is agent-less 
 
-It is idempotent
+- It is idempotent
 
-Inventory is a authentication in ansible (/ect/ansible/hosts)
+- Inventory is authentication in ansible (/ect/ansible/hosts)
 
 
 1. Control Node (Ansible Installation):
