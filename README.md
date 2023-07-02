@@ -180,16 +180,21 @@ ansible-playbook first.yml
         state: present
 ```
 12. Roles to install tomcat 
-```
-ansible-galaxy init tomcat
 
-git clone https://github.com/jaiswaladi246/tomcat-ansible.git
-```
-Edit the hosts file
+ansible-galaxy init tomcat
+(To initialize a role directory)
+
+https://github.com/Pavan-1997/Ansible_Info/tree/main/roles/tomcat
+(Ansible Role for Tomcat Deployment)
+
+If you want to use these roles then edit the hosts file for the Managed Nodes Public IP
+
+Use the below to run an ansible role
+
 ```
 ansible-playbook -i hosts tomcat-setup.yml
-
 ```
+
 13. TASK - Cloning Repo if not present
 ```
 ---
