@@ -234,3 +234,6 @@ ansible-playbook -i hosts tomcat-setup.yml
         mvn clean package
 	cp target/petclinic.war /usr/share/tomcat/webapps
 ```
+Accessing the deployed application from Public IP 
+
+![image](https://github.com/Pavan-1997/Ansible_Info/assets/32020205/418ab5c4-2651-478b-8f8c-29eabb5b6a8c)
