@@ -100,5 +100,3 @@ $ ansible-playbook -i hosts tomcat-setup.yml --ask-become-pass
 
 Execution should be successful without errors:
 
-```
-```
