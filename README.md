@@ -8,7 +8,7 @@ Ansible has master node (Control Node) and worker node(Managed Node)
 
 - It is idempotent
 
-- Inventory is authentication in ansible (/ect/ansible/hosts)
+- Inventory is authentication in ansible (/etc/ansible/hosts)
 
 
 1. Control Node (Ansible Installation):
