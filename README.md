@@ -78,7 +78,7 @@ Save the above file
 
 5. Now check the SSH connection from Control to Managed
 
-From Control : ssh root@<Public-IP>
+From Control : ssh root@Public-IP-Managed
 
 
 6. Ansible ping 
