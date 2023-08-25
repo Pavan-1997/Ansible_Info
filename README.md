@@ -113,7 +113,7 @@ ansible-playbook first.yml
 
 ```
 
-9. Creating Playbook - Print vasriable
+9. Creating Playbook - Print variable
 ```
 ---
 - hosts: VM
