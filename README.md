@@ -40,12 +40,9 @@ ls
 ```
 sudo -i
 
-ssh-keygen
-
 cd /root/.ssh
 
 ls
-(To view the 3 keys)
 ```
 Now open the authorized_keys and add the id_rsa.pub of the Control Node and save the file
 
