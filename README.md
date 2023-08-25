@@ -83,7 +83,7 @@ From Control : ssh root@Public-IP-Managed
 
 6. Ansible ping 
 ```
-ansible all -m ping 
+ansible -m ping all
 
 ```
 Play - Performing single task
