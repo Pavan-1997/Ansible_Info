@@ -32,8 +32,6 @@ sudo -i
 
 ssh-keygen
 
-cd /root/.ssh
-
 ls
 (To view the 3 keys)
 ```
