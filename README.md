@@ -1,7 +1,7 @@
 # Ansible  
              
 IAC Tools - Terraform, Ansible    
-
+ 
 Ansible has master node (Control Node) and worker node(Managed Node)
 
 ``` 
